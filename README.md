@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Ini adalah pembelajaran secara online sahaja. Ia merupakan sebuah latihan untuk melatih diri sendiri
+dan menacri solusi kepada permaalahan web ini.
 <!--
 **mybelajarlms/mybelajarlms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
